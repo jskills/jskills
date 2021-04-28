@@ -1,5 +1,5 @@
  
-👯 Day job : Management and contributions to our large scale micro-services architecture and engineering efforts for high traffic web properties and e-commerce systems.  If you're looking for opportunities in software engineering (Python and/or React.js), please PM me.
+👯 Day job : Management and contributions to our large scale micro-services architecture and engineering efforts for high traffic web properties and e-commerce systems.  If you're looking for opportunities in software engineering (Python and/or React.js), please message me.
 
 ⚡ Side Projects : As a DJ and audiophile, they are mostly music management related.
 <!--
