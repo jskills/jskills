@@ -1,5 +1,7 @@
-### Hi there 👋
+ 
+👯 Day job : Management and contributions to our large scale micro-services architecture and engineering efforts for high traffic web properties and e-commerce systems.  If you're looking for opportunities in software engineering (Python and/or React.js), please PM me.
 
+⚡ Side Projects : As a DJ and audiophile, they are mostly music management related.
 <!--
 **jskills/jskills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![jskills' GitHub stats](https://github-readme-stats.vercel.app/api?username=jskills&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskills&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
