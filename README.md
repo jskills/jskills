@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![jskills' Public GitHub stats](https://github-readme-stats.vercel.app/api?username=jskills&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs&custom_title=Public_Stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskills&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&layout=compact&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskills&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&layout=compact&hide=html,css,scss,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
