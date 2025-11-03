@@ -1,7 +1,7 @@
  
 👯 Primary Focus : Management and contributions to our  large scale micro-services' (private repos) architecture and engineering efforts for high traffic web properties and e-commerce systems.  If you're looking for opportunities in software engineering (Python and/or Next.js/React.js), please message me directly!
 
-⚡ Side Projects : As a DJ and audiophile, they are mostly music management related.
+⚡ Side Projects : As a DJ and audiophile, many are music management related.
 <!--
 **jskills/jskills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 [![jskills' Public GitHub stats](https://github-readme-stats.vercel.app/api?username=jskills&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskills&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&layout=compact&hide=html,css,scss,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
